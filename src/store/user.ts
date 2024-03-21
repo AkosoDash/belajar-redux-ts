@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction, configureStore } from "@reduxjs/toolkit";
-import { randomInt } from "crypto";
 
 interface note {
   noteId: number;
